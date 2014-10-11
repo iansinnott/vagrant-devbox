@@ -27,13 +27,15 @@ The included Vagrant file will setup and provision a Ubuntu 14.04 image complete
 Clearly there is more here than you would ever need for one single project, but this image is designed to act like a local development environment one would have on a personal computer. It comes with the kitchen sink so that you can quickly get started with any project you want.
 
 [nginx]: http://nginx.com/
+[rbenv]: https://github.com/sstephenson/rbenv
 [ruby]: https://www.ruby-lang.org/en/
 [gem]: https://rubygems.org/
 [bundler]: http://bundler.io/
-[node]: http://nodejs.org/
-[meteor]: http://meteor.com/
+[rails]: http://rubyonrails.org/
 [nvm]: https://github.com/creationix/nvm
+[node]: http://nodejs.org/
 [npm]: https://www.npmjs.org/
+[meteor]: http://meteor.com/
 [php]: http://php.net/
 [composer]: https://getcomposer.org/
 [mysql]: http://www.mysql.com/
